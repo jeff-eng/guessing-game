@@ -5,3 +5,7 @@
 .incorrect {
   color: red;
 }
+
+html {
+  background-color: gray;
+}
